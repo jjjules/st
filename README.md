@@ -5,7 +5,7 @@ features that make it literally the best terminal emulator ever:
 
 ## Unique features (using dmenu)
 
-+ **follow urls** by pressing `alt-l`
++ **follow urls** by pressing `alt-shift-u`
 + **copy urls** in the same way with `alt-y`
 + **copy the output of commands** with `alt-o`
 
